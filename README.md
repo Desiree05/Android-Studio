@@ -1,7 +1,7 @@
 # Curso de Android Studio
 https://developer.android.com/courses/android-basics-compose/course?hl=es-419
 
-![Insignias conseguidas](./insignias.png)
+![Insignias conseguidas](./Insignias.png)
 
 # Unit 1: Kotlin basics.
 
